@@ -1,6 +1,6 @@
 <h1 align="center">Ivan Dorofeev</h1>
 <p align="center">
-  Backend Developer · Python · Django · FastAPI · Integrations · AI · Automation
+  Backend Developer | Python, Django, Flask, FastAPI | Building bots, internal tools and API integrations
 </p>
 
 <p align="center">
